@@ -1,1 +1,1 @@
-# gales-subset-takeaway-n4
+Exhaustive solution for David Gales subset takeaway
